@@ -1,0 +1,2 @@
+1. The input values were strings, so instead of being mathematically operated, they were concatenated as strings insteadc(example: "3" + "5" = "35").
+2. Convert the string inputs to numbers using `Number()` before performing the addition.
